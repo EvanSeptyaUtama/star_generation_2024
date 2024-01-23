@@ -1,0 +1,33 @@
+Catatan Tugas Akhir
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Berdasarkan Teori
+> Subjek penelitian adalah responden atau informan yang akan di gali atau di mintai datanya.
+> Objek penelitian adalah masalah dan tema yang akan dijadikan penelitian.
+> Topic Penelitian adalah karya tulis yang bersifat umum dan jangkauannya lebih luas
+> Judul Penelitian adalah pemfokusan karya tulis yang lebih spesifik dari sebuah penelitian
+> Metode Kualitatif dan Kuantitatif
+  - Pegertian
+     a) Metode Kualitatif = proses pengumpulan, menganalisis, dan menafsirkan data non-numerik (bukan angka)
+          cth : teks, video, foto atau rekaman audio.
+     b) Metode Kuantitatif =  proses pengumpulan dan analisis data numerik (angka) secara objektif (pasti).
+          cth :  angka dan grafik dengan didasarkan dengan pengujian terhadap teori dan asumsi (pendapat)
+  - Berdasarkan analisis dan pengumpulan data.
+         a) Metode Kualitatif = berkaitan dengan kata dan makna.
+         b) Metode Kuantitatif = berkaitan dengan angka, grafik, dan statistik.
+  - Berdasarkan Jenis data
+      a) Metode Kualitatif = catatan harian atau wawancara dengan pertanyaan terbuka atau mendalam dan analisis dengan teori dasar
+      b) Metode Kuantitatif = observasi atau survey atau pertanyaan tertutup
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Berdasarkan Implementasi Tugas Akhir
+Topic = Rancang BangunAplikasi Berbasis Website
+Judul = Pembuatan Sistem Absensi berbasis Website Menggunakan Framework Laravel (Studi Kasus : Sekolah Dasar STAR GENERATION)
+> Subjek Penelitian : Instansi (Sekolah Dasar) Star Genertion
+> Objek : Perancangan sebuah sistem Absensi berbasis Website untuk memudahkan instansi dalam melakukan absen setelah sebelumnya masih di lakukan secara manual
+> Metode yang digunakan adalah Kualitatif karena penambilan jenis data cengan mencatat hasil wawancara yang terjadi pada instansi dalam hal ini Star Generation
+
+> Penjelasan tentang rekapitulasi absen
+intinya rekap ini akan melakukan pencarian rentang waktu absen yang dilakukan dari tanggal awal hinggal akhir.
+Jadi, disajikan input berdasarkan tanggal, nah ketika si pengabsen tersebut melakukan input berdasarkan tanggal maka akan muncul beberapa tabel sesuai inputan yang telah dilakukan.
+Contoh : 
+Terdapat sebuah inputan absen baik siswa/guru di tanggal 1 September - 30 September 2023.
+Perhitungannya adalah: ketika memasukkan input di tanggal 1 september 2023, maka yang keluar adalah hanya input tanggal 1 saja. Namun, ketika user memasukkan inputan pada tanggal 30 september 2023, maka seluruh inputan dari awal di tanggal 1-30 september 2023 akan tertampil.

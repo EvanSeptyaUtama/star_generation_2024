@@ -1,0 +1,65 @@
+password : Admin@gmail.com123
+
+=============================================
+Data Siswa/Siswa STARGEN
+-------------------------------------------
+Foto siswa = string @
+Nama Lengkap = string @
+Tempat Lahir = string @
+Tanggal Lahir = date @
+Jenis Kelamin (pilihan) = string/select @
+Agama (Pilihan) = string/select @
+Anak ke- = string @
+Suku = string@
+Jumlah Saudara = int@
+Cita-cita = string@
+Hobi = string@
+No Telp(ortu) = string@
+Tempat tinggal = string/select "bersama orang tua, bersama wali"@
+Alamat = string @
+RT/RW = string
+DESA/KELURAHAN = string
+Kecamatan = string
+Kode Pos = string
+===================================================================
+Data Sejarah
+-------------------------------------------------------------------
+judul_sejarah = string
+penjelasan_singkat = text
+penjelasan_lengkap = text
+gambar_sejarah = string
+===================================================================
+Data Visi-Misi
+-------------------------------------------------------------------
+visi = string
+misi = string
+gambar_visi_misi = string
+===================================================================
+Data Susunan Organisasi 
+-------------------------------------------------------------------
+judul = string
+gambar_organisasi = string
+nama = string
+jabatan = string
+===================================================================
+Data Informasi Akademik 
+-------------------------------------------------------------------
+hari = string
+tanggal = date
+informasi = string
+keterangan = text
+gambar = string
+===================================================================
+
+
+Kelas 1 (id => 10-1)
+Nama Siswa :Renbo,Donaldo,Jhon,Rangga Gongsi,Titis,Utama,Ciu Liu kang,Johan,Rinaldo,Evan Septya Utama
+
+Kelas 2 (id => 11-20)
+Nama Siswa :Rangga Tarkaman,Asep Gareth Bale,Alexandro De Bungas,Ryzen Tangkulung,Jordi Alba,Sanjaya,Jon thery,Paska Ono,Jonas,Siska
+
+Kelas 3 (id => 21-30)
+Nama Siswa :Agung Mulia,Rifki Awing,Reza Arab Oktawibawa,Roni Lestaluhu,Salvianus Tandiayu,Marchelinus Kaltomo,Terrel Aret,Rindaman Rante Lembang,Janluster Supandi Siagian,Jan Misael Panagan
+
+Kelas 4 (id => 31-40)
+Nama Siswa :Leonardo Da Vinci,Fernando Manangsang,Ramos,Leonel Havertz,Zinadine Zidane,Pilar Marcelinus,Brian Anggara Putra,Gabriel Manuputi,Kaleb Sitanggang,Decky Shooter,
